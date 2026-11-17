@@ -1,0 +1,10 @@
+# Codexamor — Privacy-Preserving Federated NLP Assistant (Python 3.14+ / VS Code / Google Colab)
+torch>=2.6.0
+flwr[simulation]>=1.14.0
+scikit-learn>=1.6.0
+pandas>=2.2.3
+numpy>=2.2.0
+sentence-transformers>=3.4.1
+streamlit>=1.42.0
+google-genai>=1.10.0
+opacus>=1.5.2
